@@ -1,0 +1,4 @@
+projetos/*/capture/
+projetos/*/investigation.cany/
+node_modules/
+target/
